@@ -5,32 +5,29 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/ziad-ahmed-fouad" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://tryhackme.com/p/Ziadch" title="Tryhackme Profile"><img width="22" src="images/Tryhackme--Streamline-Simple-Icons.png"> Tryhackme</a></code>
+  <code><a href="https://medium.com/@zksaar01" title="Medium blog"><img width="22" src="images/medium (1).png"> Medium blog</a></code>
+  <code><a href="https://x.com/X0Dzeko" title="Instagram Profile"><img width="22" src="images/icons8-twitter-48.png"> twitter</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
-</p>
+  Hi, I'm Ziad (0Xmorsky), Cyber Security Student & Bug Bounty Hunter from Egypt  
+<br>  
+<br>  
+🛡️ I'm currently working as a Red Teamer & Penetration Tester  
+<br>  
+🎯 Active in Bug Bounty programs and Capture The Flag (CTF) competitions  
+<br>  
+💻 I love writing code, building security tools, and exploring system internals  
+<br>  
+📚 I’m currently learning API Security Testing, Windows & Android Architecture, and Quantum Computing fundamentals  
+<br>  
+🚀 Passionate about Cyber Security research, OSINT, and advanced Red Team operations  
+<br>  
+💬 Ask me anything about Cyber Security, Bug Bounty, or Penetration Testing  
+<br>  
+📫 How to reach me: <a href="mailto:zksaar01@gmail.com">zksaar01@gmail.com</a>  
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
