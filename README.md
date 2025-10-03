@@ -33,8 +33,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/html5.svg"></code>
-  <code><img title="C++" height="25" src="images/css.svg"></code>
+  <code><img title="html" height="25" src="images/html5.svg"></code>
+  <code><img title="css" height="25" src="images/css.svg"></code>
   <code><img title="C#" height="25" src="images/javascript.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
@@ -60,49 +60,51 @@
   <code><img title="Unity" height="25" src="images/icons8-server-windows-100.png"></code>
   <code><img title="Java" height="25" src="images/icons8-aws-48.png"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Flask" height="25" src="images/mac.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-notion-48.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-obsidian-64.png"></code>
+  <code><img title="Flask" height="25" src="images/id7SpkJg0M_1759404746314.png"></code>
+  <code><img title="Flask" height="25" src="images/snort_logo_icon_167981 (2).png"></code>
+  <code><img title="Flask" height="25" src="images/openvas.png"></code>
+  <code><img title="Flask" height="25" src="images/John_the_Ripper_logo.png"></code>
+  <code><img title="Flask" height="25" src="images/idSA_IMx1J_logos.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-wireshark-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-system-task-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-system-report-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-system-information-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-software-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-nmap-48.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-metasploit-48.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-kali-linux-100.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-burp-suite-50.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-bot-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-bug-64.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-active-directory-64.png"></code>
+  <code><img title="Flask" height="25" src="images/theharvester-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/wpscan-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/sherlock-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/tcpdump-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/responder-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/netcat-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/netdiscover-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/maltego-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/mimikatz-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/hashcat-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/hydra-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/evil-winrm-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/ffuf-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/armitage-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/beef-xss-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/aircrack-ng-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/medium (1).png"></code>
+  <code><img title="Flask" height="25" src="images/Tryhackme--Streamline-Simple-Icons.png"></code>
+  <code><img title="Flask" height="25" src="images/bloodhound-logo.svg"></code>
+  <code><img title="Flask" height="25" src="images/docker-logo-blue.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-azure-48.png"></code>
+  <code><img title="Flask" height="25" src="images/icons8-kubernetes-48.png"></code>
+  <code><img title="Flask" height="25" src="images/server.png"></code>
+  <code><img title="Flask" height="25" src="images/shodan-icon-filled-256.webp"></code>
+  <code><img title="Flask" height="25" src="images/VMware_23516.png"></code>
 </p>
 <hr>
 
